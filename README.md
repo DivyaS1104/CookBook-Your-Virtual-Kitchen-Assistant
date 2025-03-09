@@ -54,5 +54,3 @@ During this project, I gained hands-on experience with:
 
 ✅ Git & GitHub - Committing changes, pushing to repositories, and structuring a project for collaboration
 
-# Project Demo Video Link :
-https://drive.google.com/file/d/1ZF8FWb40uK3edx2y5Prd2Xn5TP8kx-pl/view?usp=sharing
